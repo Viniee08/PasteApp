@@ -19,7 +19,7 @@ This template provides a minimal setup for building a React application using Vi
 
 ## Installation
 
-### Step 1: Create a Vite project
+### Step 1: Create a Vite project Created
 
 1. Install Vite globally (if not already installed):
 
@@ -31,6 +31,7 @@ This template provides a minimal setup for building a React application using Vi
    - Project name: `paste`
    - Framework: `React`
    - Variant: `JavaScript` or `TypeScript` as per your preference.
+
 3. Navigate into the project directory:
 
    ```bash
