@@ -31,7 +31,6 @@ This template provides a minimal setup for building a React application using Vi
    - Project name: `paste`
    - Framework: `React`
    - Variant: `JavaScript` or `TypeScript` as per your preference.
-
 3. Navigate into the project directory:
 
    ```bash
